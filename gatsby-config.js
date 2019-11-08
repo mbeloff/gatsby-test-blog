@@ -5,7 +5,7 @@ module.exports = {
     description: 'Bob Ross CRI art workshop blog',
     siteUrl: 'https://frosty-aryabhata-64e427.netlify.com',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/gatsy-test-blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
